@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Weinan Tang",
+  "url": "https://github.com/twn39/vue-mini-flex",
+  "author": {
+    "name": "Weinan.tang",
+    "email": "twn39@163.com"
+  },
   "license": "MIT"
 }
